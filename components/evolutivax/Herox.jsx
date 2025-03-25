@@ -34,7 +34,7 @@ export default function Hero() {
                 </span>
               </span>
               <p className="description">
-              En Evolutivax, ofrecemos soluciones personalizadas en gestión de datos, desarrollo tecnológico y consultoría contable.
+              Optimiza costos, toma decisiones estratégicas y potencia tu empresa con análisis de datos avanzados y tableros inteligentes. Convierte la información en acción. 
               </p>
               <div className="button-group">
                 <Link
